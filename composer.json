@@ -1,0 +1,28 @@
+{
+	"name": "andrewandante/silverstripe-bootstraptour",
+	"description": "Create a joyride with BootstrapTour in the CMS",
+	"type": "silverstripe-module",
+	"homepage": "https://github.com/andrewandante/silverstripe-bootstraptour",
+	"keywords": [
+		"silverstripe",
+		"bootstrap",
+		"cms",
+		"tour",
+		"joyride"
+	],
+	"license": "BSD-3-Clause",
+	"authors": [
+		{
+			"name": "Andrew Aitken-Fincham",
+			"email": "andrew@silverstripe.com"
+		}
+	],
+	"support": {
+		"issues": "https://github.com/andrewandante/silverstripe-bootstraptour/issues"
+	},
+	"require": {
+		"silverstripe/framework": "^3.4",
+		"sorich87/bootstrap-tour": "^0.11",
+		"silverstripe/userforms": "^4.2.3"
+	}
+}
